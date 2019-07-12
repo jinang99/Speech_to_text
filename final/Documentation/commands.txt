@@ -1,0 +1,32 @@
+To create a model:
+1. create model directory
+2. make etc & wav directories in model directory
+3. in wav; folders for each speaker will be created having their audio files
+4. Run append.py which will append all the speaker files and store it as model.txt 
+5. run webcrawler.py 
+6. run dicionary.py
+7. Then run the following commands
+8. To test run test.py
+
+Command 1:
+
+python ../sphinxtrain/scripts/sphinxtrain -t an4 setup // replace an4 with folder name eg in this case 'final'
+
+In sphinxtrain.cfg file:
+
+line 125, 126, 134, 135 : set density = 8
+$CFG_CD_TRAIN = 'no'; [165] $DEC_CFG_MODEL_NAME = "$CFG_EXPTNAME.ci_cont"; [242]
+
+Train the data:
+In the model directory eg. 'final' in this case
+python ../sphinxtrain/scripts/sphinxtrain run
+
+TO Test via command line:
+
+Then go to
+pocketsphinx/bin/Release/Win32/
+open command prompt there
+
+and run:
+
+pocketsphinx_continuous -infile "C:\sphinx\other3\wav\1_Humaira\p" -hmm "path/to/model_parameters/model.ci_cont" -dict "path/to/dic" -lm 'path/to/lm'

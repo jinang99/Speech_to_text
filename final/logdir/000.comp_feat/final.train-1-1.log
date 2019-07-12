@@ -1,0 +1,605 @@
+Current configuration:
+[NAME]			[DEFLT]		[VALUE]
+-alpha			0.97		9.700000e-01
+-argfile				
+-blocksize		2048		2048
+-build_outdirs		yes		yes
+-c					C:/sphinx/final/etc/final_train.fileids
+-cep2spec		no		no
+-di					C:/sphinx/final/wav
+-dither			no		no
+-do					C:/sphinx/final/feat
+-doublebw		no		no
+-ei					wav
+-eo					mfc
+-example		no		no
+-frate			100		100
+-help			no		no
+-i					
+-input_endian		little		little
+-lifter			0		22
+-logspec		no		no
+-lowerf			133.33334	1.300000e+02
+-mach_endian		little		little
+-mswav			no		yes
+-ncep			13		13
+-nchans			1		1
+-nfft			512		512
+-nfilt			40		25
+-nist			no		no
+-npart			0		1
+-nskip			0		0
+-o					
+-ofmt			sphinx		sphinx
+-part			0		1
+-raw			no		no
+-remove_dc		no		no
+-remove_noise		yes		yes
+-remove_silence		yes		yes
+-round_filters		yes		yes
+-runlen			-1		-1
+-samprate		16000		1.600000e+04
+-seed			-1		-1
+-smoothspec		no		no
+-spec2cep		no		no
+-sph2pipe		no		no
+-transform		legacy		dct
+-unit_area		yes		yes
+-upperf			6855.4976	6.800000e+03
+-vad_postspeech		50		50
+-vad_prespeech		20		20
+-vad_startspeech	10		10
+-vad_threshold		3.0		3.000000e+00
+-verbose		no		no
+-warp_params				
+-warp_type		inverse_linear	inverse_linear
+-whichchan		0		0
+-wlen			0.025625	2.562500e-02
+
+INFO: sphinx_fe.c(971): Processing all remaining utterances at position 0
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aadha1.wav to C:/sphinx/final/feat/1_Humaira/aadha1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aadha2.wav to C:/sphinx/final/feat/1_Humaira/aadha2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aadha3.wav to C:/sphinx/final/feat/1_Humaira/aadha3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aadha4.wav to C:/sphinx/final/feat/1_Humaira/aadha4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aadha5.wav to C:/sphinx/final/feat/1_Humaira/aadha5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aath1.wav to C:/sphinx/final/feat/1_Humaira/aath1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aath2.wav to C:/sphinx/final/feat/1_Humaira/aath2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aath3.wav to C:/sphinx/final/feat/1_Humaira/aath3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aath4.wav to C:/sphinx/final/feat/1_Humaira/aath4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aath5.wav to C:/sphinx/final/feat/1_Humaira/aath5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aft1.wav to C:/sphinx/final/feat/1_Humaira/aft1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aft2.wav to C:/sphinx/final/feat/1_Humaira/aft2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aft3.wav to C:/sphinx/final/feat/1_Humaira/aft3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aft4.wav to C:/sphinx/final/feat/1_Humaira/aft4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/aft5.wav to C:/sphinx/final/feat/1_Humaira/aft5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/agri1.wav to C:/sphinx/final/feat/1_Humaira/agri1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/agri2.wav to C:/sphinx/final/feat/1_Humaira/agri2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/agri3.wav to C:/sphinx/final/feat/1_Humaira/agri3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/agri4.wav to C:/sphinx/final/feat/1_Humaira/agri4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/agri5.wav to C:/sphinx/final/feat/1_Humaira/agri5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/andheri1.wav to C:/sphinx/final/feat/1_Humaira/andheri1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/andheri2.wav to C:/sphinx/final/feat/1_Humaira/andheri2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/andheri3.wav to C:/sphinx/final/feat/1_Humaira/andheri3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/andheri4.wav to C:/sphinx/final/feat/1_Humaira/andheri4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/andheri5.wav to C:/sphinx/final/feat/1_Humaira/andheri5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/area1.wav to C:/sphinx/final/feat/1_Humaira/area1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/area2.wav to C:/sphinx/final/feat/1_Humaira/area2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/area3.wav to C:/sphinx/final/feat/1_Humaira/area3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/area4.wav to C:/sphinx/final/feat/1_Humaira/area4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/area5.wav to C:/sphinx/final/feat/1_Humaira/area5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/baroda1.wav to C:/sphinx/final/feat/1_Humaira/baroda1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/baroda2.wav to C:/sphinx/final/feat/1_Humaira/baroda2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/baroda3.wav to C:/sphinx/final/feat/1_Humaira/baroda3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/baroda4.wav to C:/sphinx/final/feat/1_Humaira/baroda4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/baroda5.wav to C:/sphinx/final/feat/1_Humaira/baroda5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bhk1.wav to C:/sphinx/final/feat/1_Humaira/bhk1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bhk2.wav to C:/sphinx/final/feat/1_Humaira/bhk2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bhk3.wav to C:/sphinx/final/feat/1_Humaira/bhk3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bhk4.wav to C:/sphinx/final/feat/1_Humaira/bhk4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bhk5.wav to C:/sphinx/final/feat/1_Humaira/bhk5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bungalow1.wav to C:/sphinx/final/feat/1_Humaira/bungalow1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bungalow2.wav to C:/sphinx/final/feat/1_Humaira/bungalow2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bungalow3.wav to C:/sphinx/final/feat/1_Humaira/bungalow3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bungalow4.wav to C:/sphinx/final/feat/1_Humaira/bungalow4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/bungalow5.wav to C:/sphinx/final/feat/1_Humaira/bungalow5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/car1.wav to C:/sphinx/final/feat/1_Humaira/car1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/car2.wav to C:/sphinx/final/feat/1_Humaira/car2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/car3.wav to C:/sphinx/final/feat/1_Humaira/car3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/car4.wav to C:/sphinx/final/feat/1_Humaira/car4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/car5.wav to C:/sphinx/final/feat/1_Humaira/car5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/carpet1.wav to C:/sphinx/final/feat/1_Humaira/carpet1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/carpet2.wav to C:/sphinx/final/feat/1_Humaira/carpet2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/carpet3.wav to C:/sphinx/final/feat/1_Humaira/carpet3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/carpet4.wav to C:/sphinx/final/feat/1_Humaira/carpet4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/carpet5.wav to C:/sphinx/final/feat/1_Humaira/carpet5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cc1.wav to C:/sphinx/final/feat/1_Humaira/cc1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cc2.wav to C:/sphinx/final/feat/1_Humaira/cc2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cc3.wav to C:/sphinx/final/feat/1_Humaira/cc3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cc4.wav to C:/sphinx/final/feat/1_Humaira/cc4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cc5.wav to C:/sphinx/final/feat/1_Humaira/cc5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/central1.wav to C:/sphinx/final/feat/1_Humaira/central1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/central2.wav to C:/sphinx/final/feat/1_Humaira/central2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/central3.wav to C:/sphinx/final/feat/1_Humaira/central3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/central4.wav to C:/sphinx/final/feat/1_Humaira/central4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/central5.wav to C:/sphinx/final/feat/1_Humaira/central5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/char1.wav to C:/sphinx/final/feat/1_Humaira/char1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/char2.wav to C:/sphinx/final/feat/1_Humaira/char2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/char3.wav to C:/sphinx/final/feat/1_Humaira/char3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/char4.wav to C:/sphinx/final/feat/1_Humaira/char4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/char5.wav to C:/sphinx/final/feat/1_Humaira/char5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cheh1.wav to C:/sphinx/final/feat/1_Humaira/cheh1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cheh2.wav to C:/sphinx/final/feat/1_Humaira/cheh2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cheh3.wav to C:/sphinx/final/feat/1_Humaira/cheh3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cheh4.wav to C:/sphinx/final/feat/1_Humaira/cheh4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/cheh5.wav to C:/sphinx/final/feat/1_Humaira/cheh5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/chembur1.wav to C:/sphinx/final/feat/1_Humaira/chembur1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/chembur2.wav to C:/sphinx/final/feat/1_Humaira/chembur2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/chembur3.wav to C:/sphinx/final/feat/1_Humaira/chembur3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/chembur4.wav to C:/sphinx/final/feat/1_Humaira/chembur4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/chembur5.wav to C:/sphinx/final/feat/1_Humaira/chembur5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/consultants1.wav to C:/sphinx/final/feat/1_Humaira/consultants1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/consultants2.wav to C:/sphinx/final/feat/1_Humaira/consultants2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/consultants3.wav to C:/sphinx/final/feat/1_Humaira/consultants3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/consultants4.wav to C:/sphinx/final/feat/1_Humaira/consultants4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/consultants5.wav to C:/sphinx/final/feat/1_Humaira/consultants5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/crore1.wav to C:/sphinx/final/feat/1_Humaira/crore1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/crore2.wav to C:/sphinx/final/feat/1_Humaira/crore2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/crore3.wav to C:/sphinx/final/feat/1_Humaira/crore3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/crore4.wav to C:/sphinx/final/feat/1_Humaira/crore4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/crore5.wav to C:/sphinx/final/feat/1_Humaira/crore5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/das1.wav to C:/sphinx/final/feat/1_Humaira/das1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/das2.wav to C:/sphinx/final/feat/1_Humaira/das2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/das3.wav to C:/sphinx/final/feat/1_Humaira/das3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/das4.wav to C:/sphinx/final/feat/1_Humaira/das4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/das5.wav to C:/sphinx/final/feat/1_Humaira/das5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/dhanyawad1.wav to C:/sphinx/final/feat/1_Humaira/dhanyawad1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/dhanyawad2.wav to C:/sphinx/final/feat/1_Humaira/dhanyawad2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/dhanyawad3.wav to C:/sphinx/final/feat/1_Humaira/dhanyawad3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/dhanyawad4.wav to C:/sphinx/final/feat/1_Humaira/dhanyawad4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/dhanyawad5.wav to C:/sphinx/final/feat/1_Humaira/dhanyawad5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/do1.wav to C:/sphinx/final/feat/1_Humaira/do1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/do2.wav to C:/sphinx/final/feat/1_Humaira/do2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/do3.wav to C:/sphinx/final/feat/1_Humaira/do3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/do4.wav to C:/sphinx/final/feat/1_Humaira/do4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/do5.wav to C:/sphinx/final/feat/1_Humaira/do5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/east1.wav to C:/sphinx/final/feat/1_Humaira/east1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/east2.wav to C:/sphinx/final/feat/1_Humaira/east2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/east3.wav to C:/sphinx/final/feat/1_Humaira/east3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/east4.wav to C:/sphinx/final/feat/1_Humaira/east4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/east5.wav to C:/sphinx/final/feat/1_Humaira/east5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eight1.wav to C:/sphinx/final/feat/1_Humaira/eight1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eight2.wav to C:/sphinx/final/feat/1_Humaira/eight2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eight3.wav to C:/sphinx/final/feat/1_Humaira/eight3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eight4.wav to C:/sphinx/final/feat/1_Humaira/eight4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eight5.wav to C:/sphinx/final/feat/1_Humaira/eight5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighteen1.wav to C:/sphinx/final/feat/1_Humaira/eighteen1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighteen2.wav to C:/sphinx/final/feat/1_Humaira/eighteen2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighteen3.wav to C:/sphinx/final/feat/1_Humaira/eighteen3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighteen4.wav to C:/sphinx/final/feat/1_Humaira/eighteen4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighteen5.wav to C:/sphinx/final/feat/1_Humaira/eighteen5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighty1.wav to C:/sphinx/final/feat/1_Humaira/eighty1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighty2.wav to C:/sphinx/final/feat/1_Humaira/eighty2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighty3.wav to C:/sphinx/final/feat/1_Humaira/eighty3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighty4.wav to C:/sphinx/final/feat/1_Humaira/eighty4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eighty5.wav to C:/sphinx/final/feat/1_Humaira/eighty5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ek1.wav to C:/sphinx/final/feat/1_Humaira/ek1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ek2.wav to C:/sphinx/final/feat/1_Humaira/ek2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ek3.wav to C:/sphinx/final/feat/1_Humaira/ek3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ek4.wav to C:/sphinx/final/feat/1_Humaira/ek4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ek5.wav to C:/sphinx/final/feat/1_Humaira/ek5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eleven1.wav to C:/sphinx/final/feat/1_Humaira/eleven1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eleven2.wav to C:/sphinx/final/feat/1_Humaira/eleven2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eleven3.wav to C:/sphinx/final/feat/1_Humaira/eleven3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eleven4.wav to C:/sphinx/final/feat/1_Humaira/eleven4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/eleven5.wav to C:/sphinx/final/feat/1_Humaira/eleven5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/estate1.wav to C:/sphinx/final/feat/1_Humaira/estate1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/estate2.wav to C:/sphinx/final/feat/1_Humaira/estate2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/estate3.wav to C:/sphinx/final/feat/1_Humaira/estate3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/estate4.wav to C:/sphinx/final/feat/1_Humaira/estate4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/estate5.wav to C:/sphinx/final/feat/1_Humaira/estate5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/evening1.wav to C:/sphinx/final/feat/1_Humaira/evening1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/evening2.wav to C:/sphinx/final/feat/1_Humaira/evening2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/evening3.wav to C:/sphinx/final/feat/1_Humaira/evening3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/evening4.wav to C:/sphinx/final/feat/1_Humaira/evening4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/evening5.wav to C:/sphinx/final/feat/1_Humaira/evening5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/facing1.wav to C:/sphinx/final/feat/1_Humaira/facing1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/facing2.wav to C:/sphinx/final/feat/1_Humaira/facing2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/facing3.wav to C:/sphinx/final/feat/1_Humaira/facing3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/facing4.wav to C:/sphinx/final/feat/1_Humaira/facing4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/facing5.wav to C:/sphinx/final/feat/1_Humaira/facing5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifteen1.wav to C:/sphinx/final/feat/1_Humaira/fifteen1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifteen2.wav to C:/sphinx/final/feat/1_Humaira/fifteen2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifteen3.wav to C:/sphinx/final/feat/1_Humaira/fifteen3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifteen4.wav to C:/sphinx/final/feat/1_Humaira/fifteen4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifteen5.wav to C:/sphinx/final/feat/1_Humaira/fifteen5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifty1.wav to C:/sphinx/final/feat/1_Humaira/fifty1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifty2.wav to C:/sphinx/final/feat/1_Humaira/fifty2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifty3.wav to C:/sphinx/final/feat/1_Humaira/fifty3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifty4.wav to C:/sphinx/final/feat/1_Humaira/fifty4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fifty5.wav to C:/sphinx/final/feat/1_Humaira/fifty5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/five1.wav to C:/sphinx/final/feat/1_Humaira/five1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/five2.wav to C:/sphinx/final/feat/1_Humaira/five2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/five3.wav to C:/sphinx/final/feat/1_Humaira/five3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/five4.wav to C:/sphinx/final/feat/1_Humaira/five4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/five5.wav to C:/sphinx/final/feat/1_Humaira/five5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/floors1.wav to C:/sphinx/final/feat/1_Humaira/floors1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/floors2.wav to C:/sphinx/final/feat/1_Humaira/floors2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/floors3.wav to C:/sphinx/final/feat/1_Humaira/floors3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/floors4.wav to C:/sphinx/final/feat/1_Humaira/floors4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/floors5.wav to C:/sphinx/final/feat/1_Humaira/floors5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/followup1.wav to C:/sphinx/final/feat/1_Humaira/followup1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/followup2.wav to C:/sphinx/final/feat/1_Humaira/followup2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/followup3.wav to C:/sphinx/final/feat/1_Humaira/followup3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/followup4.wav to C:/sphinx/final/feat/1_Humaira/followup4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/followup5.wav to C:/sphinx/final/feat/1_Humaira/followup5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/forty1.wav to C:/sphinx/final/feat/1_Humaira/forty1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/forty2.wav to C:/sphinx/final/feat/1_Humaira/forty2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/forty3.wav to C:/sphinx/final/feat/1_Humaira/forty3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/forty4.wav to C:/sphinx/final/feat/1_Humaira/forty4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/forty5.wav to C:/sphinx/final/feat/1_Humaira/forty5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/four1.wav to C:/sphinx/final/feat/1_Humaira/four1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/four2.wav to C:/sphinx/final/feat/1_Humaira/four2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/four3.wav to C:/sphinx/final/feat/1_Humaira/four3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/four4.wav to C:/sphinx/final/feat/1_Humaira/four4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/four5.wav to C:/sphinx/final/feat/1_Humaira/four5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fourteen1.wav to C:/sphinx/final/feat/1_Humaira/fourteen1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fourteen2.wav to C:/sphinx/final/feat/1_Humaira/fourteen2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fourteen3.wav to C:/sphinx/final/feat/1_Humaira/fourteen3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fourteen4.wav to C:/sphinx/final/feat/1_Humaira/fourteen4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/fourteen5.wav to C:/sphinx/final/feat/1_Humaira/fourteen5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ghanta1.wav to C:/sphinx/final/feat/1_Humaira/ghanta1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ghanta2.wav to C:/sphinx/final/feat/1_Humaira/ghanta2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ghanta3.wav to C:/sphinx/final/feat/1_Humaira/ghanta3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ghanta4.wav to C:/sphinx/final/feat/1_Humaira/ghanta4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ghanta5.wav to C:/sphinx/final/feat/1_Humaira/ghanta5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/good1.wav to C:/sphinx/final/feat/1_Humaira/good1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/good2.wav to C:/sphinx/final/feat/1_Humaira/good2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/good3.wav to C:/sphinx/final/feat/1_Humaira/good3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/good4.wav to C:/sphinx/final/feat/1_Humaira/good4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/good5.wav to C:/sphinx/final/feat/1_Humaira/good5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/goregaon1.wav to C:/sphinx/final/feat/1_Humaira/goregaon1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/goregaon2.wav to C:/sphinx/final/feat/1_Humaira/goregaon2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/goregaon3.wav to C:/sphinx/final/feat/1_Humaira/goregaon3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/goregaon4.wav to C:/sphinx/final/feat/1_Humaira/goregaon4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/goregaon5.wav to C:/sphinx/final/feat/1_Humaira/goregaon5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/guntha1.wav to C:/sphinx/final/feat/1_Humaira/guntha1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/guntha2.wav to C:/sphinx/final/feat/1_Humaira/guntha2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/guntha3.wav to C:/sphinx/final/feat/1_Humaira/guntha3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/guntha4.wav to C:/sphinx/final/feat/1_Humaira/guntha4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/guntha5.wav to C:/sphinx/final/feat/1_Humaira/guntha5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/gym1.wav to C:/sphinx/final/feat/1_Humaira/gym1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/gym2.wav to C:/sphinx/final/feat/1_Humaira/gym2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/gym3.wav to C:/sphinx/final/feat/1_Humaira/gym3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/gym4.wav to C:/sphinx/final/feat/1_Humaira/gym4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/gym5.wav to C:/sphinx/final/feat/1_Humaira/gym5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/harbour1.wav to C:/sphinx/final/feat/1_Humaira/harbour1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/harbour2.wav to C:/sphinx/final/feat/1_Humaira/harbour2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/harbour3.wav to C:/sphinx/final/feat/1_Humaira/harbour3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/harbour4.wav to C:/sphinx/final/feat/1_Humaira/harbour4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/harbour5.wav to C:/sphinx/final/feat/1_Humaira/harbour5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/hazaar1.wav to C:/sphinx/final/feat/1_Humaira/hazaar1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/hazaar2.wav to C:/sphinx/final/feat/1_Humaira/hazaar2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/hazaar3.wav to C:/sphinx/final/feat/1_Humaira/hazaar3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/hazaar4.wav to C:/sphinx/final/feat/1_Humaira/hazaar4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/hazaar5.wav to C:/sphinx/final/feat/1_Humaira/hazaar5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/jodi_flat1.wav to C:/sphinx/final/feat/1_Humaira/jodi_flat1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/jodi_flat2.wav to C:/sphinx/final/feat/1_Humaira/jodi_flat2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/jodi_flat3.wav to C:/sphinx/final/feat/1_Humaira/jodi_flat3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/jodi_flat4.wav to C:/sphinx/final/feat/1_Humaira/jodi_flat4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/jodi_flat5.wav to C:/sphinx/final/feat/1_Humaira/jodi_flat5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/karod1.wav to C:/sphinx/final/feat/1_Humaira/karod1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/karod2.wav to C:/sphinx/final/feat/1_Humaira/karod2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/karod3.wav to C:/sphinx/final/feat/1_Humaira/karod3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/karod4.wav to C:/sphinx/final/feat/1_Humaira/karod4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/karod5.wav to C:/sphinx/final/feat/1_Humaira/karod5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/katraj1.wav to C:/sphinx/final/feat/1_Humaira/katraj1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/katraj2.wav to C:/sphinx/final/feat/1_Humaira/katraj2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/katraj3.wav to C:/sphinx/final/feat/1_Humaira/katraj3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/katraj4.wav to C:/sphinx/final/feat/1_Humaira/katraj4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/katraj5.wav to C:/sphinx/final/feat/1_Humaira/katraj5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/laakh1.wav to C:/sphinx/final/feat/1_Humaira/laakh1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/laakh2.wav to C:/sphinx/final/feat/1_Humaira/laakh2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/laakh3.wav to C:/sphinx/final/feat/1_Humaira/laakh3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/laakh4.wav to C:/sphinx/final/feat/1_Humaira/laakh4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/laakh5.wav to C:/sphinx/final/feat/1_Humaira/laakh5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/lakhs1.wav to C:/sphinx/final/feat/1_Humaira/lakhs1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/lakhs2.wav to C:/sphinx/final/feat/1_Humaira/lakhs2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/lakhs3.wav to C:/sphinx/final/feat/1_Humaira/lakhs3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/lakhs4.wav to C:/sphinx/final/feat/1_Humaira/lakhs4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/lakhs5.wav to C:/sphinx/final/feat/1_Humaira/lakhs5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/matunga1.wav to C:/sphinx/final/feat/1_Humaira/matunga1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/matunga2.wav to C:/sphinx/final/feat/1_Humaira/matunga2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/matunga3.wav to C:/sphinx/final/feat/1_Humaira/matunga3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/matunga4.wav to C:/sphinx/final/feat/1_Humaira/matunga4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/matunga5.wav to C:/sphinx/final/feat/1_Humaira/matunga5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/morning1.wav to C:/sphinx/final/feat/1_Humaira/morning1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/morning2.wav to C:/sphinx/final/feat/1_Humaira/morning2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/morning3.wav to C:/sphinx/final/feat/1_Humaira/morning3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/morning4.wav to C:/sphinx/final/feat/1_Humaira/morning4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/morning5.wav to C:/sphinx/final/feat/1_Humaira/morning5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/multiple1.wav to C:/sphinx/final/feat/1_Humaira/multiple1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/multiple2.wav to C:/sphinx/final/feat/1_Humaira/multiple2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/multiple3.wav to C:/sphinx/final/feat/1_Humaira/multiple3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/multiple4.wav to C:/sphinx/final/feat/1_Humaira/multiple4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/multiple5.wav to C:/sphinx/final/feat/1_Humaira/multiple5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaskar1.wav to C:/sphinx/final/feat/1_Humaira/namaskar1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaskar2.wav to C:/sphinx/final/feat/1_Humaira/namaskar2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaskar3.wav to C:/sphinx/final/feat/1_Humaira/namaskar3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaskar4.wav to C:/sphinx/final/feat/1_Humaira/namaskar4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaskar5.wav to C:/sphinx/final/feat/1_Humaira/namaskar5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaste1.wav to C:/sphinx/final/feat/1_Humaira/namaste1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaste2.wav to C:/sphinx/final/feat/1_Humaira/namaste2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaste3.wav to C:/sphinx/final/feat/1_Humaira/namaste3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaste4.wav to C:/sphinx/final/feat/1_Humaira/namaste4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/namaste5.wav to C:/sphinx/final/feat/1_Humaira/namaste5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/naplot1.wav to C:/sphinx/final/feat/1_Humaira/naplot1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/naplot2.wav to C:/sphinx/final/feat/1_Humaira/naplot2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/naplot3.wav to C:/sphinx/final/feat/1_Humaira/naplot3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/naplot4.wav to C:/sphinx/final/feat/1_Humaira/naplot4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/naplot5.wav to C:/sphinx/final/feat/1_Humaira/naplot5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/night1.wav to C:/sphinx/final/feat/1_Humaira/night1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/night2.wav to C:/sphinx/final/feat/1_Humaira/night2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/night3.wav to C:/sphinx/final/feat/1_Humaira/night3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/night4.wav to C:/sphinx/final/feat/1_Humaira/night4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/night5.wav to C:/sphinx/final/feat/1_Humaira/night5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nine1.wav to C:/sphinx/final/feat/1_Humaira/nine1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nine2.wav to C:/sphinx/final/feat/1_Humaira/nine2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nine3.wav to C:/sphinx/final/feat/1_Humaira/nine3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nine4.wav to C:/sphinx/final/feat/1_Humaira/nine4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nine5.wav to C:/sphinx/final/feat/1_Humaira/nine5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nineteen1.wav to C:/sphinx/final/feat/1_Humaira/nineteen1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nineteen2.wav to C:/sphinx/final/feat/1_Humaira/nineteen2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nineteen3.wav to C:/sphinx/final/feat/1_Humaira/nineteen3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nineteen4.wav to C:/sphinx/final/feat/1_Humaira/nineteen4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/nineteen5.wav to C:/sphinx/final/feat/1_Humaira/nineteen5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ninety1.wav to C:/sphinx/final/feat/1_Humaira/ninety1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ninety2.wav to C:/sphinx/final/feat/1_Humaira/ninety2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ninety3.wav to C:/sphinx/final/feat/1_Humaira/ninety3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ninety4.wav to C:/sphinx/final/feat/1_Humaira/ninety4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ninety5.wav to C:/sphinx/final/feat/1_Humaira/ninety5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/north1.wav to C:/sphinx/final/feat/1_Humaira/north1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/north2.wav to C:/sphinx/final/feat/1_Humaira/north2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/north3.wav to C:/sphinx/final/feat/1_Humaira/north3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/north4.wav to C:/sphinx/final/feat/1_Humaira/north4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/north5.wav to C:/sphinx/final/feat/1_Humaira/north5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/oc1.wav to C:/sphinx/final/feat/1_Humaira/oc1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/oc2.wav to C:/sphinx/final/feat/1_Humaira/oc2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/oc3.wav to C:/sphinx/final/feat/1_Humaira/oc3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/oc4.wav to C:/sphinx/final/feat/1_Humaira/oc4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/oc5.wav to C:/sphinx/final/feat/1_Humaira/oc5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/one1.wav to C:/sphinx/final/feat/1_Humaira/one1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/one2.wav to C:/sphinx/final/feat/1_Humaira/one2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/one3.wav to C:/sphinx/final/feat/1_Humaira/one3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/one4.wav to C:/sphinx/final/feat/1_Humaira/one4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/one5.wav to C:/sphinx/final/feat/1_Humaira/one5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/panch1.wav to C:/sphinx/final/feat/1_Humaira/panch1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/panch2.wav to C:/sphinx/final/feat/1_Humaira/panch2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/panch3.wav to C:/sphinx/final/feat/1_Humaira/panch3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/panch4.wav to C:/sphinx/final/feat/1_Humaira/panch4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/panch5.wav to C:/sphinx/final/feat/1_Humaira/panch5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/parking1.wav to C:/sphinx/final/feat/1_Humaira/parking1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/parking2.wav to C:/sphinx/final/feat/1_Humaira/parking2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/parking3.wav to C:/sphinx/final/feat/1_Humaira/parking3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/parking4.wav to C:/sphinx/final/feat/1_Humaira/parking4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/parking5.wav to C:/sphinx/final/feat/1_Humaira/parking5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/paune1.wav to C:/sphinx/final/feat/1_Humaira/paune1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/paune2.wav to C:/sphinx/final/feat/1_Humaira/paune2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/paune3.wav to C:/sphinx/final/feat/1_Humaira/paune3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/paune4.wav to C:/sphinx/final/feat/1_Humaira/paune4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/paune5.wav to C:/sphinx/final/feat/1_Humaira/paune5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/per_square_rate1.wav to C:/sphinx/final/feat/1_Humaira/per_square_rate1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/per_square_rate2.wav to C:/sphinx/final/feat/1_Humaira/per_square_rate2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/per_square_rate3.wav to C:/sphinx/final/feat/1_Humaira/per_square_rate3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/per_square_rate4.wav to C:/sphinx/final/feat/1_Humaira/per_square_rate4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/per_square_rate5.wav to C:/sphinx/final/feat/1_Humaira/per_square_rate5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plot1.wav to C:/sphinx/final/feat/1_Humaira/plot1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plot2.wav to C:/sphinx/final/feat/1_Humaira/plot2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plot3.wav to C:/sphinx/final/feat/1_Humaira/plot3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plot4.wav to C:/sphinx/final/feat/1_Humaira/plot4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plot5.wav to C:/sphinx/final/feat/1_Humaira/plot5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plots1.wav to C:/sphinx/final/feat/1_Humaira/plots1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plots2.wav to C:/sphinx/final/feat/1_Humaira/plots2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plots3.wav to C:/sphinx/final/feat/1_Humaira/plots3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plots4.wav to C:/sphinx/final/feat/1_Humaira/plots4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/plots5.wav to C:/sphinx/final/feat/1_Humaira/plots5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pool1.wav to C:/sphinx/final/feat/1_Humaira/pool1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pool2.wav to C:/sphinx/final/feat/1_Humaira/pool2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pool3.wav to C:/sphinx/final/feat/1_Humaira/pool3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pool4.wav to C:/sphinx/final/feat/1_Humaira/pool4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pool5.wav to C:/sphinx/final/feat/1_Humaira/pool5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/private1.wav to C:/sphinx/final/feat/1_Humaira/private1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/private2.wav to C:/sphinx/final/feat/1_Humaira/private2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/private3.wav to C:/sphinx/final/feat/1_Humaira/private3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/private4.wav to C:/sphinx/final/feat/1_Humaira/private4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/private5.wav to C:/sphinx/final/feat/1_Humaira/private5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pune1.wav to C:/sphinx/final/feat/1_Humaira/pune1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pune2.wav to C:/sphinx/final/feat/1_Humaira/pune2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pune3.wav to C:/sphinx/final/feat/1_Humaira/pune3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pune4.wav to C:/sphinx/final/feat/1_Humaira/pune4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/pune5.wav to C:/sphinx/final/feat/1_Humaira/pune5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ram_mandir1.wav to C:/sphinx/final/feat/1_Humaira/ram_mandir1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ram_mandir2.wav to C:/sphinx/final/feat/1_Humaira/ram_mandir2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ram_mandir3.wav to C:/sphinx/final/feat/1_Humaira/ram_mandir3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ram_mandir4.wav to C:/sphinx/final/feat/1_Humaira/ram_mandir4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ram_mandir5.wav to C:/sphinx/final/feat/1_Humaira/ram_mandir5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ready_to_move_in1.wav to C:/sphinx/final/feat/1_Humaira/ready_to_move_in1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ready_to_move_in2.wav to C:/sphinx/final/feat/1_Humaira/ready_to_move_in2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ready_to_move_in3.wav to C:/sphinx/final/feat/1_Humaira/ready_to_move_in3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ready_to_move_in4.wav to C:/sphinx/final/feat/1_Humaira/ready_to_move_in4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ready_to_move_in5.wav to C:/sphinx/final/feat/1_Humaira/ready_to_move_in5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saat1.wav to C:/sphinx/final/feat/1_Humaira/saat1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saat2.wav to C:/sphinx/final/feat/1_Humaira/saat2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saat3.wav to C:/sphinx/final/feat/1_Humaira/saat3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saat4.wav to C:/sphinx/final/feat/1_Humaira/saat4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saat5.wav to C:/sphinx/final/feat/1_Humaira/saat5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sai1.wav to C:/sphinx/final/feat/1_Humaira/sai1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sai2.wav to C:/sphinx/final/feat/1_Humaira/sai2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sai3.wav to C:/sphinx/final/feat/1_Humaira/sai3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sai4.wav to C:/sphinx/final/feat/1_Humaira/sai4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sai5.wav to C:/sphinx/final/feat/1_Humaira/sai5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saleable1.wav to C:/sphinx/final/feat/1_Humaira/saleable1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saleable2.wav to C:/sphinx/final/feat/1_Humaira/saleable2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saleable3.wav to C:/sphinx/final/feat/1_Humaira/saleable3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saleable4.wav to C:/sphinx/final/feat/1_Humaira/saleable4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/saleable5.wav to C:/sphinx/final/feat/1_Humaira/saleable5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/samay1.wav to C:/sphinx/final/feat/1_Humaira/samay1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/samay2.wav to C:/sphinx/final/feat/1_Humaira/samay2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/samay3.wav to C:/sphinx/final/feat/1_Humaira/samay3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/samay4.wav to C:/sphinx/final/feat/1_Humaira/samay4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/samay5.wav to C:/sphinx/final/feat/1_Humaira/samay5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sava1.wav to C:/sphinx/final/feat/1_Humaira/sava1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sava2.wav to C:/sphinx/final/feat/1_Humaira/sava2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sava3.wav to C:/sphinx/final/feat/1_Humaira/sava3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sava4.wav to C:/sphinx/final/feat/1_Humaira/sava4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sava5.wav to C:/sphinx/final/feat/1_Humaira/sava5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/schedule1.wav to C:/sphinx/final/feat/1_Humaira/schedule1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/schedule2.wav to C:/sphinx/final/feat/1_Humaira/schedule2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/schedule3.wav to C:/sphinx/final/feat/1_Humaira/schedule3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/schedule4.wav to C:/sphinx/final/feat/1_Humaira/schedule4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/schedule5.wav to C:/sphinx/final/feat/1_Humaira/schedule5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seven1.wav to C:/sphinx/final/feat/1_Humaira/seven1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seven2.wav to C:/sphinx/final/feat/1_Humaira/seven2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seven3.wav to C:/sphinx/final/feat/1_Humaira/seven3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seven4.wav to C:/sphinx/final/feat/1_Humaira/seven4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seven5.wav to C:/sphinx/final/feat/1_Humaira/seven5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventeen1.wav to C:/sphinx/final/feat/1_Humaira/seventeen1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventeen2.wav to C:/sphinx/final/feat/1_Humaira/seventeen2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventeen3.wav to C:/sphinx/final/feat/1_Humaira/seventeen3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventeen4.wav to C:/sphinx/final/feat/1_Humaira/seventeen4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventeen5.wav to C:/sphinx/final/feat/1_Humaira/seventeen5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventy1.wav to C:/sphinx/final/feat/1_Humaira/seventy1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventy2.wav to C:/sphinx/final/feat/1_Humaira/seventy2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventy3.wav to C:/sphinx/final/feat/1_Humaira/seventy3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventy4.wav to C:/sphinx/final/feat/1_Humaira/seventy4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/seventy5.wav to C:/sphinx/final/feat/1_Humaira/seventy5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sion1.wav to C:/sphinx/final/feat/1_Humaira/sion1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sion2.wav to C:/sphinx/final/feat/1_Humaira/sion2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sion3.wav to C:/sphinx/final/feat/1_Humaira/sion3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sion4.wav to C:/sphinx/final/feat/1_Humaira/sion4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sion5.wav to C:/sphinx/final/feat/1_Humaira/sion5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/site1.wav to C:/sphinx/final/feat/1_Humaira/site1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/site2.wav to C:/sphinx/final/feat/1_Humaira/site2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/site3.wav to C:/sphinx/final/feat/1_Humaira/site3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/site4.wav to C:/sphinx/final/feat/1_Humaira/site4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/site5.wav to C:/sphinx/final/feat/1_Humaira/site5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/six1.wav to C:/sphinx/final/feat/1_Humaira/six1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/six2.wav to C:/sphinx/final/feat/1_Humaira/six2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/six3.wav to C:/sphinx/final/feat/1_Humaira/six3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/six4.wav to C:/sphinx/final/feat/1_Humaira/six4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/six5.wav to C:/sphinx/final/feat/1_Humaira/six5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixteen1.wav to C:/sphinx/final/feat/1_Humaira/sixteen1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixteen2.wav to C:/sphinx/final/feat/1_Humaira/sixteen2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixteen3.wav to C:/sphinx/final/feat/1_Humaira/sixteen3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixteen4.wav to C:/sphinx/final/feat/1_Humaira/sixteen4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixteen5.wav to C:/sphinx/final/feat/1_Humaira/sixteen5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixty1.wav to C:/sphinx/final/feat/1_Humaira/sixty1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixty2.wav to C:/sphinx/final/feat/1_Humaira/sixty2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixty3.wav to C:/sphinx/final/feat/1_Humaira/sixty3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixty4.wav to C:/sphinx/final/feat/1_Humaira/sixty4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/sixty5.wav to C:/sphinx/final/feat/1_Humaira/sixty5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/south1.wav to C:/sphinx/final/feat/1_Humaira/south1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/south2.wav to C:/sphinx/final/feat/1_Humaira/south2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/south3.wav to C:/sphinx/final/feat/1_Humaira/south3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/south4.wav to C:/sphinx/final/feat/1_Humaira/south4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/south5.wav to C:/sphinx/final/feat/1_Humaira/south5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/surat1.wav to C:/sphinx/final/feat/1_Humaira/surat1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/surat2.wav to C:/sphinx/final/feat/1_Humaira/surat2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/surat3.wav to C:/sphinx/final/feat/1_Humaira/surat3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/surat4.wav to C:/sphinx/final/feat/1_Humaira/surat4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/surat5.wav to C:/sphinx/final/feat/1_Humaira/surat5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/swimming1.wav to C:/sphinx/final/feat/1_Humaira/swimming1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/swimming2.wav to C:/sphinx/final/feat/1_Humaira/swimming2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/swimming3.wav to C:/sphinx/final/feat/1_Humaira/swimming3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/swimming4.wav to C:/sphinx/final/feat/1_Humaira/swimming4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/swimming5.wav to C:/sphinx/final/feat/1_Humaira/swimming5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/teen1.wav to C:/sphinx/final/feat/1_Humaira/teen1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/teen2.wav to C:/sphinx/final/feat/1_Humaira/teen2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/teen3.wav to C:/sphinx/final/feat/1_Humaira/teen3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/teen4.wav to C:/sphinx/final/feat/1_Humaira/teen4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/teen5.wav to C:/sphinx/final/feat/1_Humaira/teen5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ten1.wav to C:/sphinx/final/feat/1_Humaira/ten1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ten2.wav to C:/sphinx/final/feat/1_Humaira/ten2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ten3.wav to C:/sphinx/final/feat/1_Humaira/ten3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ten4.wav to C:/sphinx/final/feat/1_Humaira/ten4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/ten5.wav to C:/sphinx/final/feat/1_Humaira/ten5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thane1.wav to C:/sphinx/final/feat/1_Humaira/thane1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thane2.wav to C:/sphinx/final/feat/1_Humaira/thane2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thane3.wav to C:/sphinx/final/feat/1_Humaira/thane3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thane4.wav to C:/sphinx/final/feat/1_Humaira/thane4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thane5.wav to C:/sphinx/final/feat/1_Humaira/thane5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirteen1.wav to C:/sphinx/final/feat/1_Humaira/thirteen1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirteen2.wav to C:/sphinx/final/feat/1_Humaira/thirteen2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirteen3.wav to C:/sphinx/final/feat/1_Humaira/thirteen3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirteen4.wav to C:/sphinx/final/feat/1_Humaira/thirteen4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirteen5.wav to C:/sphinx/final/feat/1_Humaira/thirteen5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirty1.wav to C:/sphinx/final/feat/1_Humaira/thirty1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirty2.wav to C:/sphinx/final/feat/1_Humaira/thirty2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirty3.wav to C:/sphinx/final/feat/1_Humaira/thirty3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirty4.wav to C:/sphinx/final/feat/1_Humaira/thirty4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thirty5.wav to C:/sphinx/final/feat/1_Humaira/thirty5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thousand1.wav to C:/sphinx/final/feat/1_Humaira/thousand1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thousand2.wav to C:/sphinx/final/feat/1_Humaira/thousand2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thousand3.wav to C:/sphinx/final/feat/1_Humaira/thousand3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thousand4.wav to C:/sphinx/final/feat/1_Humaira/thousand4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/thousand5.wav to C:/sphinx/final/feat/1_Humaira/thousand5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/three1.wav to C:/sphinx/final/feat/1_Humaira/three1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/three2.wav to C:/sphinx/final/feat/1_Humaira/three2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/three3.wav to C:/sphinx/final/feat/1_Humaira/three3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/three4.wav to C:/sphinx/final/feat/1_Humaira/three4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/three5.wav to C:/sphinx/final/feat/1_Humaira/three5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twelve1.wav to C:/sphinx/final/feat/1_Humaira/twelve1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twelve2.wav to C:/sphinx/final/feat/1_Humaira/twelve2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twelve3.wav to C:/sphinx/final/feat/1_Humaira/twelve3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twelve4.wav to C:/sphinx/final/feat/1_Humaira/twelve4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twelve5.wav to C:/sphinx/final/feat/1_Humaira/twelve5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twenty1.wav to C:/sphinx/final/feat/1_Humaira/twenty1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twenty2.wav to C:/sphinx/final/feat/1_Humaira/twenty2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twenty3.wav to C:/sphinx/final/feat/1_Humaira/twenty3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twenty4.wav to C:/sphinx/final/feat/1_Humaira/twenty4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/twenty5.wav to C:/sphinx/final/feat/1_Humaira/twenty5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/two1.wav to C:/sphinx/final/feat/1_Humaira/two1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/two2.wav to C:/sphinx/final/feat/1_Humaira/two2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/two3.wav to C:/sphinx/final/feat/1_Humaira/two3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/two4.wav to C:/sphinx/final/feat/1_Humaira/two4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/two5.wav to C:/sphinx/final/feat/1_Humaira/two5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/underconstruction1.wav to C:/sphinx/final/feat/1_Humaira/underconstruction1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/underconstruction2.wav to C:/sphinx/final/feat/1_Humaira/underconstruction2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/underconstruction3.wav to C:/sphinx/final/feat/1_Humaira/underconstruction3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/underconstruction4.wav to C:/sphinx/final/feat/1_Humaira/underconstruction4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/underconstruction5.wav to C:/sphinx/final/feat/1_Humaira/underconstruction5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vadodara1.wav to C:/sphinx/final/feat/1_Humaira/vadodara1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vadodara2.wav to C:/sphinx/final/feat/1_Humaira/vadodara2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vadodara3.wav to C:/sphinx/final/feat/1_Humaira/vadodara3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vadodara4.wav to C:/sphinx/final/feat/1_Humaira/vadodara4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vadodara5.wav to C:/sphinx/final/feat/1_Humaira/vadodara5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vashi1.wav to C:/sphinx/final/feat/1_Humaira/vashi1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vashi2.wav to C:/sphinx/final/feat/1_Humaira/vashi2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vashi3.wav to C:/sphinx/final/feat/1_Humaira/vashi3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vashi4.wav to C:/sphinx/final/feat/1_Humaira/vashi4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/vashi5.wav to C:/sphinx/final/feat/1_Humaira/vashi5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/versova1.wav to C:/sphinx/final/feat/1_Humaira/versova1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/versova2.wav to C:/sphinx/final/feat/1_Humaira/versova2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/versova3.wav to C:/sphinx/final/feat/1_Humaira/versova3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/versova4.wav to C:/sphinx/final/feat/1_Humaira/versova4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/versova5.wav to C:/sphinx/final/feat/1_Humaira/versova5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/villa1.wav to C:/sphinx/final/feat/1_Humaira/villa1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/villa2.wav to C:/sphinx/final/feat/1_Humaira/villa2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/villa3.wav to C:/sphinx/final/feat/1_Humaira/villa3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/villa4.wav to C:/sphinx/final/feat/1_Humaira/villa4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/villa5.wav to C:/sphinx/final/feat/1_Humaira/villa5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/visit1.wav to C:/sphinx/final/feat/1_Humaira/visit1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/visit2.wav to C:/sphinx/final/feat/1_Humaira/visit2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/visit3.wav to C:/sphinx/final/feat/1_Humaira/visit3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/visit4.wav to C:/sphinx/final/feat/1_Humaira/visit4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/visit5.wav to C:/sphinx/final/feat/1_Humaira/visit5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/west1.wav to C:/sphinx/final/feat/1_Humaira/west1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/west2.wav to C:/sphinx/final/feat/1_Humaira/west2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/west3.wav to C:/sphinx/final/feat/1_Humaira/west3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/west4.wav to C:/sphinx/final/feat/1_Humaira/west4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/west5.wav to C:/sphinx/final/feat/1_Humaira/west5.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/western1.wav to C:/sphinx/final/feat/1_Humaira/western1.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/western2.wav to C:/sphinx/final/feat/1_Humaira/western2.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/western3.wav to C:/sphinx/final/feat/1_Humaira/western3.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/western4.wav to C:/sphinx/final/feat/1_Humaira/western4.mfc
+INFO: sphinx_fe.c(791): Converting C:/sphinx/final/wav/1_Humaira/western5.wav to C:/sphinx/final/feat/1_Humaira/western5.mfc
+Fri Jul 12 14:18:39 2019
