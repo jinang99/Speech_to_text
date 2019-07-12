@@ -58,3 +58,5 @@ TO Test via command line:
 Go to pocketsphinx/bin/Release/Win32/
 Open command prompt there and run:
 pocketsphinx_continuous -infile "path to audio file" -hmm "path/to/model_parameters/model.ci_cont" -dict "path/to/dic" -lm “path/to/lm.dmp”
+
+Link to Google Docs: https://docs.google.com/document/d/1gRGrNjSh49mexOKiKcZfPisetqOF_xAy6ZW5etqgnNo/edit?usp=sharing
