@@ -1,18 +1,19 @@
 import os
-from pocketsphinx import LiveSpeech, get_model_path
 
-model_path = get_model_path()
+model_path = "" #Provide the path of the directory where model files are there
+data_path = ""  #Provide the path of the directory where audio files are there
 
-speech = LiveSpeech(
-    verbose=False,
-    sampling_rate=16000,
-    buffer_size=2048,
-    no_search=False,
-    full_utt=False,
-    hmm=os.path.join(model_path, 'en-us'),
-    lm=os.path.join(model_path, 'en-us.lm.bin'),
-    dic=os.path.join(model_path, 'cmudict-en-us.dict')
-)
+config = {
+    'verbose': False,
+    'audio_file': os.path.join(data_path, ''), #name of the audio file to be transcribed
+    'buffer_size': 2048,
+    'no_search': False,
+    'full_utt': False,
+    'hmm': os.path.join(model_path, ''),  #name of the hmm model
+    'lm': os.path.join(model_path, ''),   #name of the language model
+    'dict': os.path.join(model_path, '')  #name of the dictionary
+}
 
-for phrase in speech:
+audio = AudioFile(**config)
+for phrase in audio:
     print(phrase)
